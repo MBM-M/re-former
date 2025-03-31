@@ -1,7 +1,7 @@
 #Ruby on Rails Forms
 This project is part of The Odin Project's Ruby on Rails curriculum. It focuses on building and handling forms in a Ruby on Rails web application. The goal is to learn how to create forms, handle form submissions, and use Rails helpers effectively.
 
-Features
+##Features
 * User Input Form: A simple form for users to input data.
 
 * Form Handling: The form data is captured and saved into a database.
@@ -10,8 +10,8 @@ Features
 
 * Dynamic Rendering: The form is rendered dynamically based on the user’s input.
 
-Learning Objectives
-* By the end of this project, you'll have learned:
+##Learning Objectives
+By the end of this project, you'll have learned:
 
 * How to create a form using Rails form helpers.
 
@@ -21,7 +21,7 @@ Learning Objectives
 
 * How to display validation errors in a user-friendly way.
 
-Technologies Used
+##Technologies Used
 * Ruby on Rails: The main framework used for building the web application.
 
 * HTML/CSS: For rendering and styling the forms.
