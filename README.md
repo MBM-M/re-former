@@ -1,24 +1,31 @@
-# README
+#Ruby on Rails Forms
+This project is part of The Odin Project's Ruby on Rails curriculum. It focuses on building and handling forms in a Ruby on Rails web application. The goal is to learn how to create forms, handle form submissions, and use Rails helpers effectively.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Features
+*User Input Form: A simple form for users to input data.
 
-Things you may want to cover:
+*Form Handling: The form data is captured and saved into a database.
 
-* Ruby version
+*Validation: Basic validation to ensure data integrity.
 
-* System dependencies
+*Dynamic Rendering: The form is rendered dynamically based on the user’s input.
 
-* Configuration
+Learning Objectives
+*By the end of this project, you'll have learned:
 
-* Database creation
+*How to create a form using Rails form helpers.
 
-* Database initialization
+*How to submit data from the form to a controller.
 
-* How to run the test suite
+*How to validate form data on the server side.
 
-* Services (job queues, cache servers, search engines, etc.)
+*How to display validation errors in a user-friendly way.
 
-* Deployment instructions
+Technologies Used
+*Ruby on Rails: The main framework used for building the web application.
 
-* ...
+*HTML/CSS: For rendering and styling the forms.
+
+*SQLite3: For database management (default database for Rails).
+
+*Git: For version control.
